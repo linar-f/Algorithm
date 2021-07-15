@@ -1,0 +1,13 @@
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.exe
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.deps.json
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.runtimeconfig.json
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.runtimeconfig.dev.json
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.dll
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\bin\Debug\netcoreapp3.1\DFS_BFS.pdb
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.csprojAssemblyReference.cache
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.AssemblyInfoInputs.cache
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.AssemblyInfo.cs
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.csproj.CoreCompileInputs.cache
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.dll
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.pdb
+D:\Users\Администратор\source\repos\DFS_BFS\DFS_BFS\obj\Debug\netcoreapp3.1\DFS_BFS.genruntimeconfig.cache
