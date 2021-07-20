@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Администратор\\Desktop\\HomeWork\\Graph\\Graph\\Graph.csproj": {}
+    "D:\\Users\\Администратор\\source\\repos\\GraphArray\\GraphArray\\GraphArray.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Администратор\\Desktop\\HomeWork\\Graph\\Graph\\Graph.csproj": {
+    "D:\\Users\\Администратор\\source\\repos\\GraphArray\\GraphArray\\GraphArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Администратор\\Desktop\\HomeWork\\Graph\\Graph\\Graph.csproj",
-        "projectName": "Graph",
-        "projectPath": "D:\\Users\\Администратор\\Desktop\\HomeWork\\Graph\\Graph\\Graph.csproj",
+        "projectUniqueName": "D:\\Users\\Администратор\\source\\repos\\GraphArray\\GraphArray\\GraphArray.csproj",
+        "projectName": "GraphArray",
+        "projectPath": "D:\\Users\\Администратор\\source\\repos\\GraphArray\\GraphArray\\GraphArray.csproj",
         "packagesPath": "D:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Администратор\\Desktop\\HomeWork\\Graph\\Graph\\obj\\",
+        "outputPath": "D:\\Users\\Администратор\\source\\repos\\GraphArray\\GraphArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",

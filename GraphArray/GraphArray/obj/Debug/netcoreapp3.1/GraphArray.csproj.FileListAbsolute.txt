@@ -1,0 +1,13 @@
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.exe
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.deps.json
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.runtimeconfig.json
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.runtimeconfig.dev.json
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.dll
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\bin\Debug\netcoreapp3.1\GraphArray.pdb
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.csprojAssemblyReference.cache
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.AssemblyInfoInputs.cache
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.AssemblyInfo.cs
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.csproj.CoreCompileInputs.cache
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.dll
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.pdb
+D:\Users\Администратор\source\repos\GraphArray\GraphArray\obj\Debug\netcoreapp3.1\GraphArray.genruntimeconfig.cache

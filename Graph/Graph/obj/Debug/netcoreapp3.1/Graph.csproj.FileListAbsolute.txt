@@ -1,0 +1,13 @@
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+D:\Users\Администратор\Desktop\HomeWork\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
