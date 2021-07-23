@@ -1,0 +1,26 @@
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.exe
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.deps.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.dev.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.dll
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\bin\Debug\netcoreapp3.1\Horse.pdb
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.csprojAssemblyReference.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfoInputs.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfo.cs
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.csproj.CoreCompileInputs.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.dll
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.pdb
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse\Horse\obj\Debug\netcoreapp3.1\Horse.genruntimeconfig.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.exe
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.deps.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.runtimeconfig.dev.json
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.dll
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\bin\Debug\netcoreapp3.1\Horse.pdb
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.csprojAssemblyReference.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfoInputs.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.AssemblyInfo.cs
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.csproj.CoreCompileInputs.cache
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.dll
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.pdb
+C:\Obmen\Base\Линар\0. C#. geekbrains\Алгоритмы\Horse - копия 2\Horse\obj\Debug\netcoreapp3.1\Horse.genruntimeconfig.cache
