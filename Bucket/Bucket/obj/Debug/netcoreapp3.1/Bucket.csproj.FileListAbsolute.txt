@@ -1,0 +1,13 @@
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.exe
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.deps.json
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.runtimeconfig.json
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.runtimeconfig.dev.json
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.dll
+C:\Users\u\Downloads\Bucket\Bucket\bin\Debug\netcoreapp3.1\Bucket.pdb
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.csprojAssemblyReference.cache
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.AssemblyInfoInputs.cache
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.AssemblyInfo.cs
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.csproj.CoreCompileInputs.cache
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.dll
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.pdb
+C:\Users\u\Downloads\Bucket\Bucket\obj\Debug\netcoreapp3.1\Bucket.genruntimeconfig.cache
